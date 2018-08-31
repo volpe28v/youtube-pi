@@ -11,10 +11,12 @@ $ node download.rb https://www.youtube.com/watch?v=xxxxxxx videos/hoge.mp4
 ```
 
 ## Play video
+Currently supports shuffle play and infinite loop playback.
+
 ```
 $ node play.js videos/hoge.mp4
 
-or
+or to play multi videos 
 
 $ node play.js videos/*.mp4
 ```
