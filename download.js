@@ -6,7 +6,7 @@ var file_name = 'video.mp4';
 var quality = 137; // 1080p
 
 if (process.argv.length < 3){
-  console.log("node playtube.js youtube_uri");
+  console.log("node download.js youtube_uri [xxx.mp4] [quality]");
   process.exit(1);
 }else{
   youtube_uri = process.argv[2];
