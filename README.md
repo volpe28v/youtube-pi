@@ -7,7 +7,7 @@ $ npm install
 
 ## Download video
 ```
-$ node download.rb https://www.youtube.com/watch?v=xxxxxxx videos/hoge.mp4
+$ node download.js https://www.youtube.com/watch?v=xxxxxxx videos/hoge.mp4
 ```
 
 ## Play video
