@@ -2,7 +2,7 @@
   "name": "youtube-pi",
   "version": "1.0.0",
   "description": "download and play youtube videos on raspberry pi",
-  "main": "playtube.js",
+  "main": "play.js",
   "dependencies": {
     "node-omxplayer": "^0.6.1",
     "youtube-dl": "^1.12.2"
